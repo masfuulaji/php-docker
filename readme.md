@@ -1,1 +1,1 @@
-create src folder to start building app
+create src/ folder to start building app
